@@ -1,0 +1,12 @@
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\bin\Debug\TaskManagerModels.dll
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\bin\Debug\TaskManagerModels.pdb
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\obj\Debug\TaskManagerModels.csprojAssemblyReference.cache
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\obj\Debug\TaskManagerModels.csproj.CoreCompileInputs.cache
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\obj\Debug\TaskManagerModels.dll
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\obj\Debug\TaskManagerModels.pdb
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\bin\Debug\MaterialDesignColors.dll
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\bin\Debug\MaterialDesignColors.pdb
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\машимовн.corp\source\repos\TaskManager\TaskManagerModels\obj\Debug\TaskManagerModels.csproj.CopyComplete
